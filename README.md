@@ -1,2 +1,2 @@
 # College-Insights
-UNDER CONSTRUCTION !!!
+UNDER DEVELOPMENT !!!
